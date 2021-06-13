@@ -1,7 +1,7 @@
 # Hola a Todos aquí estan mis estadísticas de Github :3 👋
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/)](https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/S3rC4D1/)](https://github.com/S3rC4D1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sercadi:3-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/)](https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/) [![Github Badge](https://img.shields.io/badge/-Sercadi:3-red?style=flat&logo=github&logoColor=white&link=https://github.com/S3rC4D1/)](https://github.com/S3rC4D1/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
