@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # Lenguajes que uso normalmente
 
-![C# para Unity](https://img.shields.io/badge/-C en Unity-239120?style=flat&logo=c-sharp&logoColor=white)
+![C# para Unity](https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
