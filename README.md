@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 Me gustan los CTF, la Seguridad Informática y todo el tema de Cacharreo en General.
+- 💻 Me gustan los CTF🚩, la Seguridad Informática y todo el tema de Cacharreo en General.
 - 💬 Estudiante de Administración de Sistemas Informáticos en Red.
 - 🏆 Programación en JS con JQuery y React, Python y PHP pero el más aprendido es todo aquello relacionado a Frontend.
 
