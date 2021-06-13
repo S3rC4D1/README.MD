@@ -1,3 +1,19 @@
+<html>
+  <head>
+    <style>
+      
+      p {
+      
+      margin-bottom: 1px;
+      
+      }
+      
+    </style>
+  </head>
+  
+  </html>
+
+
 # Hola a Todos aquí estan mis estadísticas de Github :3 👋
 
 **Toca los Botones para ir a Mis Perfiles Automáticamente:**
@@ -42,7 +58,7 @@ Here are some ideas to get you started:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) <p align="center"> Entorno Usado junto a C# para hacer miniproyectos en mis tiempos libres. </p> 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) <p> Entorno Usado junto a C# para hacer miniproyectos en mis tiempos libres. </p> 
 
 **- Lenguajes de Base de Datos**
 
