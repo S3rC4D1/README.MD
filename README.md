@@ -2,7 +2,7 @@
 
 **Toca los Botones para ir a Mis Perfiles Automáticamente:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sercadi:3-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/)](https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/) [![Github Badge](https://img.shields.io/badge/-Sercadi:3-red?style=flat&logo=github&logoColor=white&link=https://github.com/S3rC4D1/)](https://github.com/S3rC4D1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sercadi:3-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/)](https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/) [![Github Badge](https://img.shields.io/badge/-Sercadi:3-red?style=flat&logo=github&logoColor=white&link=https://github.com/S3rC4D1/)](https://github.com/S3rC4D1/) [![Twitter Badge](https://img.shields.io/badge/-Sercadi:3-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SercadiSmash/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
