@@ -1,5 +1,5 @@
 
-# Hola a Todos aquí estan mis estadísticas de Github :3 👋
+# Mis estadísticas de Github :3 👋
 
 **Toca los Botones para ir a Mis Perfiles Automáticamente:**
 
