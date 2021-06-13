@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💻 Me gustan los CTF🚩, la Seguridad Informática y todo el tema de Cacharreo en General.
 - 💬 Estudiante de Administración de Sistemas Informáticos en Red.
-- 🏆 Programación en JS con JQuery y React, Python y PHP pero el más aprendido es todo aquello relacionado a Frontend.
+- 🏆 Programación en JS con JQuery y React o Angular, Python y PHP pero el más aprendido es todo aquello relacionado a Frontend.
 - 🎨 Amante del Dibujo y del Diseño con ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) y ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 
 ## Estadísticas de Github
