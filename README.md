@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 ** - Lenguajes dedicado a Objetos y Formularios ** 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
+
 Entorno Usado junto a C# para hacer miniproyectos en mis tiempos libres.
 
 ** - Lenguajes de Base de Datos **
