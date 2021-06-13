@@ -32,4 +32,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=S3rC4D1&layout=compact&theme=synthwave)](https://github.com/S3rC4D1/Sercadi)
 
 
+# Lenguajes que uso normalmente :3 👋
+
+[![C# para Unity](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)]
+
+
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
