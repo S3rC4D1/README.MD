@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # Lenguajes que uso normalmente
 
-![C# para Unity](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Frontend](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![C# para Unity](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Frontend](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white,https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 
 
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
