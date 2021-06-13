@@ -1,6 +1,6 @@
 # Hola a Todos aquí estan mis estadísticas de Github :3 👋
 
-**Get in touch:**
+**Toca los Botones para ir a Mis Perfiles Automáticamente:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sercadi:3-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/)](https://www.linkedin.com/in/sergio-castro-díaz-1639b8214/) [![Github Badge](https://img.shields.io/badge/-Sercadi:3-red?style=flat&logo=github&logoColor=white&link=https://github.com/S3rC4D1/)](https://github.com/S3rC4D1/)
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 🏆 Programación en JS con JQuery y React, Python y PHP pero el más aprendido es todo aquello relacionado a Frontend.
 
 ## Estadísticas de Github
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=S3rC4D1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/S3rC4D1/Sercadi)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=S3rC4D1&layout=compact)](https://github.com/S3rC4D1/Sercadi)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=S3rC4D1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=synthwave)](https://github.com/S3rC4D1/Sercadi)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=S3rC4D1&layout=compact&theme=synthwave)](https://github.com/S3rC4D1/Sercadi)
 
 
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
