@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=S3rC4D1&layout=compact&theme=synthwave)](https://github.com/S3rC4D1/Sercadi)
 
 
-# Lenguajes que uso normalmente
+# Lenguajes que uso normalmente o me gusta tocarlos
 
 **- Lenguajes Web en Frontend y Backend**
 
