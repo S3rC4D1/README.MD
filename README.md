@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 **- Bibliotecas Web**
 
-![React](	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flate&logo=angular&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![React](	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **- Lenguajes dedicado a Objetos y Formularios** 
 
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 
 **- Lenguajes de Base de Datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
