@@ -42,16 +42,16 @@ Here are some ideas to get you started:
 
 **- Bibliotecas Web**
 
-![React](	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **- Lenguajes dedicado a Objetos y Formularios** 
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) Entorno usado junto a C# para hacer miniproyectos en mis tiempos libres. 
 
 **- Lenguajes de Base de Datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 <!--![S3rC4D1's github stats](https://github-readme-stats.vercel.app/api?username=S3rC4D1) -->
